@@ -4,6 +4,8 @@
   "description": "一个功能完善、架构优雅的现代化网页计算器，采用原生 JavaScript 实现，支持基础运算、科学计算、历史记录等多种功能。",
   "main": "index.html",
   "scripts": {
+    "dev": "http-server -p 3000 -c-1 -o",
+    "start": "http-server -p 3000 -c-1",
     "test": "vitest run"
   },
   "keywords": [],
@@ -13,6 +15,7 @@
     "decimal.js": "^10.6.0"
   },
   "devDependencies": {
+    "http-server": "^14.1.1",
     "vitest": "^1.4.0"
   }
 }
