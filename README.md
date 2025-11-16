@@ -358,7 +358,6 @@ npm test
 
 ## 👨‍💻 作者
 
-**Crow**
 - GitHub: [@INKCR0W](https://github.com/INKCR0W)
 
 ## 🙏 致谢
